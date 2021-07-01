@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @sandeepyadav1478
+### Hi there 👋 
+
+- 👋 This is *Sandeep Yadav* here. My work origin is world.
 - 👀 I’m interested in Python Project Development
 - 🌱 I’m currently learning TensorFlow Library of Python
 - 💞️ I’m looking to collaborate on github page
 - 📫 How to reach me - sandeepyadav1478@gmail.com
+                       [Linkedin](https://www.linkedin.com/in/sandeepyadav1478/)
+- ⚡ Fun fact: Love learing new tech & watch some scifi series like WestWorld, Dust 😄 !! 
+
 
 <!---
 sandeepyadav1478/sandeepyadav1478 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,3 +31,24 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 <br>
+
+
+# Blog posts
+<!-- BLOG-POST-LIST:START --><!--
+- [Get Your hands Dirty in these Before approaching Machine Learning field](https://medium.com/@spsupraj2d/get-your-hands-dirty-in-these-before-approaching-machine-learning-field-71f56c461c72?source=rss-4b5584b42d16------2)-->
+<!-- BLOG-POST-LIST:END -->
+
+<br>
+<br>
+
+# StackOverflow Activity
+<!-- STACKOVERFLOW:START -->
+- [Runtime error while running PyTorch model on local machine](https://stackoverflow.com/questions/62400718/runtime-error-while-running-pytorch-model-on-local-machine)
+- [How i extract text from a model dialog in selenium?](https://stackoverflow.com/questions/62330974/how-i-extract-text-from-a-model-dialog-in-selenium)
+- [Answer by Sudhanshu Prajapati for In SparkAR 3D custom object is not working properly as AR library 3D object on same code](https://stackoverflow.com/questions/61975412/in-sparkar-3d-custom-object-is-not-working-properly-as-ar-library-3d-object-on-s/62303939#62303939)
+- [How it is encode in javascript?](https://stackoverflow.com/questions/62303636/how-it-is-encode-in-javascript)
+- [Answer by Sudhanshu Prajapati for How to increment score when a condition is met using list comprehensions](https://stackoverflow.com/questions/62300377/how-to-increment-score-when-a-condition-is-met-using-list-comprehensions/62301101#62301101)
+<!-- STACKOVERFLOW:END -->
+
+<br />
+
