@@ -8,12 +8,29 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;[Linkedin](https://www.linkedin.com/in/sandeepyadav1478/)
 - ⚡ Fun fact: Love learing new tech & watch some scifi series like WestWorld, Dust 😄 !! 
 
+<br><br>
+<p align="center">
+  <a href="https://github.com/sandeepyadav1478/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepyadav1478&layout=compact"
+    />
+  </a>
+  <a href="https://github.com/sandeepyadav1478/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=sandeepyadav1478&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
+</p>
 
 <!---
 sandeepyadav1478/sandeepyadav1478 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+<br>
+<br>
 
 ## Languages and Tools :nerd_face:
 <p align="center">
@@ -40,7 +57,7 @@ You can click the Preview link to take a look at your changes.
     <img height="40" alt="powershell" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 
 </p>
-
+<br><br>
 
 ## Contact :iphone:
 
@@ -59,21 +76,6 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-<p align="center">
-  <a href="https://github.com/sandeepyadav1478/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepyadav1478&layout=compact"
-    />
-  </a>
-  <a href="https://github.com/sandeepyadav1478/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=sandeepyadav1478&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
-    />
-  </a>
-</p>
 
 
 # Blog posts
