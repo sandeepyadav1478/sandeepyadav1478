@@ -8,7 +8,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;[Linkedin](https://www.linkedin.com/in/sandeepyadav1478/)
 - ⚡ Fun fact: Love learing new tech & watch some scifi series like WestWorld, Dust 😄 !! 
 
-<br><br>
+<br>
 <p align="center">
   <a href="https://github.com/sandeepyadav1478/github-readme-stats">
     <img
@@ -29,8 +29,7 @@
 sandeepyadav1478/sandeepyadav1478 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<br>
-<br>
+
 
 ## Languages and Tools :nerd_face:
 <p align="center">
