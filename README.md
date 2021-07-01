@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning TensorFlow Library of Python
 - 💞️ I’m looking to collaborate on github page
 - 📫 How to reach me - [Mail](mailto:sandeepyadav1478@gmail.com)<br>
-                       [Linkedin](https://www.linkedin.com/in/sandeepyadav1478/)
+<hr><hr><hr>[Linkedin](https://www.linkedin.com/in/sandeepyadav1478/)
 - ⚡ Fun fact: Love learing new tech & watch some scifi series like WestWorld, Dust 😄 !! 
 
 
