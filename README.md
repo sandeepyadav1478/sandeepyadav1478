@@ -74,8 +74,6 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-
-
 # Blog posts
 <!-- BLOG-POST-LIST:START --><!--
 - [Get Your hands Dirty in these Before approaching Machine Learning field](https://medium.com/@spsupraj2d/get-your-hands-dirty-in-these-before-approaching-machine-learning-field-71f56c461c72?source=rss-4b5584b42d16------2)-->
