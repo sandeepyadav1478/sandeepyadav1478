@@ -29,7 +29,7 @@
     <img
       align="center"
       height="125"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dark"/>
+      src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepyadav1478&repo=github-readme-stats&theme=dark"/>
   </a>
 </p>
 
