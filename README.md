@@ -20,14 +20,14 @@
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=sandeepyadav1478&count_private=true&show_icons=true&custom_title=Github%20Status&theme=dark&hide=issues"
+      src="https://github-readme-stats.vercel.app/api?username=sandeepyadav1478&count_private=true&show_icons=true&custom_title=Github%20Status&theme=dark"
     />
   </a>
    <a href="https://github.com/sandeepyadav1478/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats"/>
+      src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dark"/>
   </a>
 </p>
 
