@@ -34,6 +34,14 @@
       src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepyadav1478&repo=Transfer-files-from-google-to-terabox-cloud&theme=dark"/>
   </a>
  </p>
+ 
+  <p align="center">
+     <a href="https://github.com/sandeepyadav1478/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=dark&count_private=true&show_icons=true&layout=compact"/>
+  </a>
+  </p>
 
 <!---
 sandeepyadav1478/sandeepyadav1478 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
