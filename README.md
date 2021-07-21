@@ -21,7 +21,7 @@
     <img
       align="center"
        height="145"
-       src="https://github-readme-stats.vercel.app/api?username=sandeepyadav1478&count_private=true&show_icons=true&custom_title=Github%20Status&theme=dark"
+       src="https://github-readme-stats.vercel.app/api?username=sandeepyadav1478&count_private=true&show_icons=true&custom_title=Github%20Status&theme=gradiant"
     />
   </a>
  </p>
