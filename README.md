@@ -25,7 +25,7 @@
     />
   </a>
  </p>
- <p align="center">
+<!--  <p align="center">
    <a href="https://github.com/sandeepyadav1478/github-readme-stats">
     <img
       align="center"
@@ -33,7 +33,7 @@
        width="400"
       src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepyadav1478&repo=Transfer-files-from-google-to-terabox-cloud&theme=tokyonight"/>
   </a>
- </p>
+ </p> -->
  
  ## Wakatime Week stats
  
