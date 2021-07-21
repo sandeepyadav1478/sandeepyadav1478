@@ -14,7 +14,7 @@
     <img
       align="center"
        height="145"
-       width="270"
+       width="290"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepyadav1478&layout=compact&theme=dark&count_private=true"
     />
   </a>
