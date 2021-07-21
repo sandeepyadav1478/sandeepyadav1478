@@ -28,7 +28,7 @@
     <img
       align="center"
       height="125"
-       width="40"
+       width="200"
       src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepyadav1478&repo=Transfer-files-from-google-to-terabox-cloud&theme=dark"/>
   </a>
  </p>
