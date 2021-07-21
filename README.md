@@ -14,14 +14,14 @@
     <img
       align="center"
        height="145"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepyadav1478&layout=compact&count_private=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=ccc"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepyadav1478&layout=compact&count_private=true&theme=tokyonight"
     />
   </a>
   <a href="https://github.com/sandeepyadav1478/github-readme-stats">
     <img
       align="center"
        height="145"
-       src="https://github-readme-stats.vercel.app/api?username=sandeepyadav1478&count_private=true&show_icons=true&custom_title=Github%20Status&bg_color=30,e96443,904e95&title_color=fff&text_color=ccc"
+       src="https://github-readme-stats.vercel.app/api?username=sandeepyadav1478&count_private=true&show_icons=true&custom_title=Github%20Status&theme=tokyonight"
     />
   </a>
  </p>
@@ -31,7 +31,7 @@
       align="center"
       height="145"
        width="400"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepyadav1478&repo=Transfer-files-from-google-to-terabox-cloud&&bg_color=30,e96443,904e95&title_color=fff&text_color=ccc"/>
+      src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepyadav1478&repo=Transfer-files-from-google-to-terabox-cloud&theme=tokyonight"/>
   </a>
  </p>
  
@@ -81,11 +81,11 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
     <a href="https://github.com/sandeepyadav1478">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/teteusAraujo">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/sandeepyadav1478">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:sandeepyadav1478@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mateusaraujo996@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sandeepyadav1478@gmail.com">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/sandeepyadav1478">
