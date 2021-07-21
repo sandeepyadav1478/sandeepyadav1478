@@ -14,14 +14,14 @@
     <img
       align="center"
        height="145"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepyadav1478&layout=compact&theme=dark&count_private=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepyadav1478&layout=compact&count_private=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=ccc"
     />
   </a>
   <a href="https://github.com/sandeepyadav1478/github-readme-stats">
     <img
       align="center"
        height="145"
-       src="https://github-readme-stats.vercel.app/api?username=sandeepyadav1478&count_private=true&show_icons=true&custom_title=Github%20Status&bg_color=30,e96443,904e95&title_color=ddd&text_color=ddd"
+       src="https://github-readme-stats.vercel.app/api?username=sandeepyadav1478&count_private=true&show_icons=true&custom_title=Github%20Status&bg_color=30,e96443,904e95&title_color=fff&text_color=ccc"
     />
   </a>
  </p>
@@ -31,7 +31,7 @@
       align="center"
       height="145"
        width="400"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepyadav1478&repo=Transfer-files-from-google-to-terabox-cloud&theme=dark"/>
+      src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepyadav1478&repo=Transfer-files-from-google-to-terabox-cloud&&bg_color=30,e96443,904e95&title_color=fff&text_color=ccc"/>
   </a>
  </p>
  
