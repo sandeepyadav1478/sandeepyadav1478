@@ -21,13 +21,14 @@
     <img
       align="center"
       height="145"
-      src="https://github-readme-stats.vercel.app/api?username=sandeepyadav1478&count_private=true&show_icons=true&custom_title=Github%20Status&theme=dark"
+      width="330"
+       src="https://github-readme-stats.vercel.app/api?username=sandeepyadav1478&count_private=true&show_icons=true&custom_title=Github%20Status&theme=dark"
     />
   </a>
    <a href="https://github.com/sandeepyadav1478/github-readme-stats">
     <img
       align="center"
-      height="200"
+      height="145"
        width="330"
       src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepyadav1478&repo=Transfer-files-from-google-to-terabox-cloud&theme=dark"/>
   </a>
