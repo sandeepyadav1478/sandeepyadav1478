@@ -13,8 +13,7 @@
   <a href="https://github.com/sandeepyadav1478/github-readme-stats">
     <img
       align="center"
-       height="145"
-       width="300"
+
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepyadav1478&layout=compact&theme=dark&count_private=true"
     />
   </a>
@@ -22,7 +21,7 @@
     <img
       align="center"
       height="145"
-      width="360"
+
        src="https://github-readme-stats.vercel.app/api?username=sandeepyadav1478&count_private=true&show_icons=true&custom_title=Github%20Status&theme=dark"
     />
   </a>
