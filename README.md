@@ -23,15 +23,13 @@
       src="https://github-readme-stats.vercel.app/api?username=sandeepyadav1478&count_private=true&show_icons=true&custom_title=Github%20Status&theme=dark"
     />
   </a>
- </p>
- <p align="center"> 
    <a href="https://github.com/sandeepyadav1478/github-readme-stats">
     <img
       align="center"
       height="125"
       src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepyadav1478&theme=dark"/>
   </a>
-</p>
+ </p>
 
 <!---
 sandeepyadav1478/sandeepyadav1478 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
