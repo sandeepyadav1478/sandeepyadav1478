@@ -41,7 +41,7 @@
      <a href="https://github.com/sandeepyadav1478/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=sandeepyadav1478&theme=dark&count_private=true&show_icons=true&layout=compact"/>
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=sandeepyadav1478&theme=tokyonight&count_private=true&show_icons=true&layout=compact"/>
   </a>
   </p>
 
