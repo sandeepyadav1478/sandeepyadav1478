@@ -28,7 +28,7 @@
    <a href="https://github.com/sandeepyadav1478/github-readme-stats">
     <img
       align="center"
-      height="145"
+      height="125"
       src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dark"/>
   </a>
 </p>
