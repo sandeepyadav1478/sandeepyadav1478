@@ -9,7 +9,7 @@
 - ⚡ Fun fact: Love learing new tech & watch some scifi series like WestWorld, Dust 😄 !! 
 
 <br>
-<p align="center">
+<p align="left">
   <a href="https://github.com/sandeepyadav1478/github-readme-stats">
     <img
       align="center"
