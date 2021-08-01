@@ -2,7 +2,7 @@
 
 - 👋 This is *Sandeep Yadav* here. My work origin is world.
 - 👀 I’m interested in Python Project Development
-- 🌱 I’m currently learning TensorFlow Library of Python
+- 🌱 I’m currently learning NLP Libraries using Python
 - 💞️ I’m looking to collaborate on github page
 - 📫 How to reach me - [Mail](mailto:sandeepyadav1478@gmail.com)<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;[Linkedin](https://www.linkedin.com/in/sandeepyadav1478/)
