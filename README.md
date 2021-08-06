@@ -1,9 +1,9 @@
 ## Hi there <img width="22px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 
 - 👋 Its *Sandeep* here. My work origin is world.
-- 👀 I’m interested in Python Project Development
-- 🌱 I’m currently learning NLP Libraries using Python
-- 💞️ I’m looking to collaborate on github page
+- 👀 I’m interested in Python Project Development.
+- 🌱 I’m currently learning NLP Libraries using Python.
+- 💞️ I’m looking to collaborate on github page.
 - 📫 How to reach me - [Mail](mailto:sandeepyadav1478@gmail.com)<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;[Linkedin](https://www.linkedin.com/in/sandeepyadav1478/)
 - ⚡ Fun fact: Love learing new tech & watch some scifi series like WestWorld, Dust 😄 !! 
