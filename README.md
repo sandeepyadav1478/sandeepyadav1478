@@ -1,6 +1,6 @@
 ## Hi there <img width="22px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 
-- 👋 This is *Sandeep Yadav* here. My work origin is world.
+- 👋 Its *Sandeep* here. My work origin is world.
 - 👀 I’m interested in Python Project Development
 - 🌱 I’m currently learning NLP Libraries using Python
 - 💞️ I’m looking to collaborate on github page
