@@ -34,7 +34,7 @@
   </a>
  </p> -->
  
- ## Wakatime Week stats
+ ## Wakatime Today stats
  
  <p align="center">
      <a href="https://github.com/sandeepyadav1478/github-readme-stats">
