@@ -1,4 +1,4 @@
-## Hi there <img max-width="22px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
+## Hi there
 
 - 👋 Its *Sandeep* here. My work origin is world.
 - 👀 I’m interested in Python Project Development.
