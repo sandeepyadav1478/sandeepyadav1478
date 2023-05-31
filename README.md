@@ -65,7 +65,7 @@ You can click the Preview link to take a look at your changes.
 <br/>
 <br/>
 
-## Languages and tools
+## Skills and tools
 <p align="center">
     <img height="40" alt="djago" src="https://icon-library.com/images/django-icon/django-icon-0.jpg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
