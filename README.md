@@ -24,9 +24,6 @@
     />
   </a>
  </p>
- <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
 <!--  <p align="center">
    <a href="https://github.com/sandeepyadav1478/github-readme-stats">
     <img
