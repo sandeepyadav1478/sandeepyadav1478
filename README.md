@@ -53,7 +53,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=boto&repo=boto3&theme=tokyonight&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat&theme=tokyonight&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asandeepyadav1478&repo=Transfer-files-from-google-to-terabox-cloud&theme=tokyonight&layout=compact" />
 </a>
 
 <br/>
