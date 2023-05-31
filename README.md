@@ -3,7 +3,7 @@
 - 👋 Its *Sandeep* here. My work origin is world.
 - 👀 I’m interested in Python Project Development.
 - 🌱 I’m currently learning NLP Libraries using Python.
-- 💞️ I’m looking to collaborate on github page.
+- 💞️ I’m currenty collaborating on aws boto3 github page.
 - 📫 How to reach me - 1. [Mail](mailto:sandeepyadav1478@gmail.com)&nbsp;2. [Linkedin](https://www.linkedin.com/in/sandeepyadav1478/)
 - ⚡ Fun fact: Love learing new tech & watch some scifi series like WestWorld, Dust 😄 !! 
 
