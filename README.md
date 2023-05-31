@@ -52,7 +52,7 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 
-## Recent liked commits :star2:
+## Recent liked commits :christmas_tree:
 <p align="center">
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=boto&repo=boto3&theme=tokyonight" />
