@@ -35,7 +35,7 @@
  </p> -->
  <br/>
  
- ## Wakatime ever stats :chart_with_upwards_trend:
+ ## Wakatime ever stats
  
  <p align="center">
      <a href="https://github.com/sandeepyadav1478/github-readme-stats">
@@ -52,7 +52,7 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 
-## Recent liked commits :diamonds:
+## Recent liked commits
 <p align="center">
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=boto&repo=boto3&theme=tokyonight" />
@@ -65,7 +65,7 @@ You can click the Preview link to take a look at your changes.
 <br/>
 <br/>
 
-## Languages and Tools :nerd_face:
+## Languages and tools
 <p align="center">
     <img height="40" alt="djago" src="https://icon-library.com/images/django-icon/django-icon-0.jpg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -93,7 +93,7 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 
-## Contact :iphone:
+## Connect
 
 <p align="center">
     <a href="https://github.com/sandeepyadav1478">
