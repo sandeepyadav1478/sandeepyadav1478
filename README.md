@@ -52,7 +52,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Languages and Tools :nerd_face:
 <p align="center">
-    <img height="40" alt="djago" src="https://img.pngio.com/django-web-development-web-framework-python-software-framework-django-png-550_550.png">
+    <img height="40" alt="djago" src="https://icon-library.com/images/django-icon/django-icon-0.jpg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" alt="js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
