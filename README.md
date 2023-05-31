@@ -112,6 +112,10 @@ You can click the Preview link to take a look at your changes.
     <a href="https://medium.com/@sandeepyadav1478">
         <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
     </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://dev.to/sandeepyadav1478">
+        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
+    </a>
 </p>
 
 <!--
