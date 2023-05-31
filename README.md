@@ -108,6 +108,10 @@ You can click the Preview link to take a look at your changes.
     <a href="https://www.linkedin.com/in/sandeepyadav1478">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/mateusaraujobarros/">
     </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://medium.com/@sandeepyadav1478">
+        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+    </a>
 </p>
 
 <!--
