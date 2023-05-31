@@ -67,6 +67,10 @@ You can click the Preview link to take a look at your changes.
 
 ## Skills and tools
 <p align="center">
+  <img height="40" alt="djago" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<p align="center">
     <img height="40" alt="djago" src="https://icon-library.com/images/django-icon/django-icon-0.jpg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" alt="js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
