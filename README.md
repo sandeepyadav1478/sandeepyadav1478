@@ -33,7 +33,7 @@
       src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepyadav1478&repo=Transfer-files-from-google-to-terabox-cloud&theme=tokyonight"/>
   </a>
  </p> -->
- <br/><br/>
+ <br/>
  
  ## Wakatime stats
  
@@ -50,7 +50,7 @@ sandeepyadav1478/sandeepyadav1478 is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-<br/><br/>
+<br/>
 
 ## Recent commits
 <a href="https://github.com/anuraghazra/convoychat">
@@ -60,7 +60,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?repo=Transfer-files-from-google-to-terabox-cloud&theme=tokyonight&username=sandeepyadav1478" />
 </a>
 
-<br/><br/>
+<br/>
 
 ## Languages and Tools :nerd_face:
 <p align="center">
@@ -88,6 +88,7 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
+<br/>
 ## Contact :iphone:
 
 <p align="center">
