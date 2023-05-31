@@ -35,7 +35,7 @@
  </p> -->
  <br/>
  
- ## Wakatime stats
+ ## Wakatime ever stats
  
  <p align="center">
      <a href="https://github.com/sandeepyadav1478/github-readme-stats">
@@ -52,7 +52,7 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 
-## Recent commits
+## Recent liked commits
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=boto&repo=boto3&theme=tokyonight" />
 </a>
