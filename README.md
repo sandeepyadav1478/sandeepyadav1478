@@ -53,7 +53,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Recent commits
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=boto&repo=boto3&theme=tokyonight&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=boto&repo=boto3&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepyadav1478&repo=Transfer-files-from-google-to-terabox-cloud&theme=tokyonight" />
