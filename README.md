@@ -1,6 +1,6 @@
 ## Hi there!
 
-- 👋 Its *Sandeep* here. My work origin is world.
+- 👋 Its *Sandeep*. My work origin is world.
 - 👀 I’m interested in Python Project Development.
 - 🌱 I’m currently learning NLP Libraries using Python.
 - 💞️ I’m currenty collaborating on aws boto3 github page.
