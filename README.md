@@ -13,7 +13,7 @@
     <img
       align="center"
        height="145"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepyadav1478&layout=compact&count_private=true&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepyadav1478&layout=compact&count_private=true"
     />
   </a>
   <a href="https://github.com/sandeepyadav1478/github-readme-stats">
