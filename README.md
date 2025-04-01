@@ -20,10 +20,8 @@
     <img
       align="center"
        height="145"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepyadav1478&layout=compact&count_private=true&theme=tokyonight"
-    />
+       src="https://github-readme-stats.vercel.app/api?username=sandeepyadav1478&count_private=true&show_icons=true&custom_title=Github%20Status&theme=tokyonight"/>
   </a>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepyadav1478&hide=javascript,html)](https://github.com/sandeepyadav1478/github-readme-stats)
  </p>
 <!--  <p align="center">
    <a href="https://github.com/sandeepyadav1478/github-readme-stats">
