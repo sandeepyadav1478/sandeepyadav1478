@@ -23,9 +23,7 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepyadav1478&layout=compact&count_private=true&theme=tokyonight"
     />
   </a>
-  <a href="https://github.com/sandeepyadav1478/github-readme-stats">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
-  </a>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepyadav1478&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
  </p>
 <!--  <p align="center">
    <a href="https://github.com/sandeepyadav1478/github-readme-stats">
