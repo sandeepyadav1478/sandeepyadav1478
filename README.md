@@ -13,14 +13,14 @@
     <img
       align="center"
        height="145"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepyadav1478&layout=compact&count_private=true&theme=tokyonight"
+      src="https://github-readme-stats-vercel-kohl.vercel.app/api/top-langs/?username=sandeepyadav1478&layout=compact&count_private=true&theme=tokyonight"
     />
   </a>
   <a href="https://github.com/sandeepyadav1478/github-readme-stats">
     <img
       align="center"
        height="145"
-       src="https://github-readme-stats.vercel.app/api?username=sandeepyadav1478&count_private=true&show_icons=true&custom_title=Github%20Status&theme=tokyonight"/>
+       src="https://github-readme-stats-vercel-kohl.vercel.app/api?username=sandeepyadav1478&count_private=true&show_icons=true&custom_title=Github%20Status&theme=tokyonight"/>
   </a>
  </p>
 <!--  <p align="center">
@@ -29,7 +29,7 @@
       align="center"
       height="145"
        width="400"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepyadav1478&repo=Transfer-files-from-google-to-terabox-cloud&theme=tokyonight"/>
+      src="https://github-readme-stats-vercel-kohl.vercel.app/api/pin/?username=sandeepyadav1478&repo=Transfer-files-from-google-to-terabox-cloud&theme=tokyonight"/>
   </a>
  </p> -->
  <br/>
@@ -40,7 +40,7 @@
      <a href="https://github.com/sandeepyadav1478/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=@sandeepyadav1478&theme=tokyonight&count_private=true&show_icons=true&layout=compact"/>
+      src="https://github-readme-stats-vercel-kohl.vercel.app/api/wakatime?username=@sandeepyadav1478&theme=tokyonight&count_private=true&show_icons=true&layout=compact"/>
   </a>
   </p>
 <!---
@@ -54,10 +54,10 @@ You can click the Preview link to take a look at your changes.
 ## Recent liked commits
 <p align="center">
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=boto&repo=boto3&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-vercel-kohl.vercel.app/api/pin/?username=boto&repo=boto3&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?repo=Transfer-files-from-google-to-terabox-cloud&theme=tokyonight&username=sandeepyadav1478" />
+  <img align="center" src="https://github-readme-stats-vercel-kohl.vercel.app/api/pin/?repo=Transfer-files-from-google-to-terabox-cloud&theme=tokyonight&username=sandeepyadav1478" />
 </a>
 </P>
 
