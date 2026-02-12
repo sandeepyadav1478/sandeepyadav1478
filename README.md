@@ -87,24 +87,6 @@ Git Config   9 mins          ▒░░░░░░░░░░░░░░░░
   </picture>
 </p>
 
-
-## 📈 Coding Activity
-
-[![Sandeep's WakaTime Activity Graph](https://wakatime.com/share/@sandeepyadav1478/d07b1c65-d3e1-4896-897f-1e2f0a4c1b8e.svg)](https://wakatime.com/@sandeepyadav1478)
-
-
-<br/>
-
-## Recent liked commits
-<p align="center">
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats-vercel-kohl.vercel.app/api/pin/?username=boto&repo=boto3&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats-vercel-kohl.vercel.app/api/pin/?repo=Transfer-files-from-google-to-terabox-cloud&theme=tokyonight&username=sandeepyadav1478" />
-</a>
-</P>
-
 <br/>
 <br/>
 
