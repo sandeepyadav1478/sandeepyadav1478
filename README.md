@@ -36,15 +36,20 @@
  <br/>
  
  ## Wakatime ever stats
- <!--START_SECTION:waka-->
 
-```txt
-Python       7 hrs 16 mins   ██████████████████░░░░░░░   71.97 %
-Markdown     1 hr 35 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.70 %
-Docker       29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
-Bash         27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
-Git Config   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-```
+ <p align="center">
+     <a href="https://github.com/sandeepyadav1478/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats-vercel-kohl.vercel.app/api/wakatime?username=@sandeepyadav1478&theme=tokyonight&count_private=true&show_icons=true&layout=compact"/>
+  </a>
+  </p>
+<!---
+sandeepyadav1478/sandeepyadav1478 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+ 
+ <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
 
