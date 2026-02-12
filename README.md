@@ -61,7 +61,7 @@ Git Config   9 mins          ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-## 🐍 WakaTime Coding Activity
+## 📈 Coding Activity
 
 <p align="center">
   <picture>
