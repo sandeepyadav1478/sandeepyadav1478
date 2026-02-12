@@ -61,6 +61,13 @@ Git Config   9 mins          ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+
+
+## 📈 Coding Activity
+
+[![Sandeep's WakaTime Activity Graph](https://wakatime.com/share/@sandeepyadav1478/d07b1c65-d3e1-4896-897f-1e2f0a4c1b8e.svg)](https://wakatime.com/@sandeepyadav1478)
+
+
 <br/>
 
 ## Recent liked commits
