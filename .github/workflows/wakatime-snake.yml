@@ -1,0 +1,94 @@
+name: WakaTime Activity Visualization
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Daily at midnight UTC
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Generate WakaTime heatmap
+        run: |
+          cat > gen.py << 'EOF'
+          import requests, json
+          from datetime import datetime
+
+          url = "${{ secrets.WAKATIME_JSON_URL }}"
+          data = requests.get(url).json()
+          contributions = {}
+
+          for day in data.get('data', []):
+              date, total = day.get('date', ''), day.get('total', 0)
+              hours = total / 3600
+              level = 0 if hours == 0 else (1 if hours < 1 else (2 if hours < 3 else (3 if hours < 5 else 4)))
+              contributions[date] = level
+
+          cell, gap, margin = 11, 3, 20
+          weeks, days_in_week = 53, 7
+          width = (cell + gap) * weeks + margin * 2
+          height = (cell + gap) * days_in_week + margin * 2 + 60
+
+          colors = {0: '#ebedf0', 1: '#9be9a8', 2: '#40c463', 3: '#30a14e', 4: '#216e39'}
+
+          svg = f'<svg width="{width}" height="{height}" xmlns="http://www.w3.org/2000/svg"><rect width="{width}" height="{height}" fill="#fff"/>'
+          svg += f'<text x="{width/2}" y="25" font-family="Arial" font-size="16" font-weight="600" text-anchor="middle" fill="#24292f">WakaTime Coding Activity (Last Year)</text><g transform="translate({margin}, 50)">'
+
+          if contributions:
+              start = datetime.strptime(min(contributions.keys()), '%Y-%m-%d')
+              for date_str, level in contributions.items():
+                  days_diff = (datetime.strptime(date_str, '%Y-%m-%d') - start).days
+                  week, day = days_diff // 7, days_diff % 7
+                  x, y = week * (cell + gap), day * (cell + gap)
+                  svg += f'<rect x="{x}" y="{y}" width="{cell}" height="{cell}" fill="{colors[level]}" rx="2"/>'
+
+          legend_y = days_in_week * (cell + gap) + 20
+          svg += f'</g><g transform="translate({width - 220}, {legend_y + 50})"><text x="0" y="0" font-size="11" fill="#666">Less</text>'
+          for i in range(5):
+              x = 35 + i * (cell + gap)
+              svg += f'<rect x="{x}" y="-10" width="{cell}" height="{cell}" fill="{colors[i]}" rx="2"/>'
+          svg += f'<text x="{35 + 5 * (cell + gap) + 5}" y="0" font-size="11" fill="#666">More</text></g></svg>'
+
+          with open('wakatime_heatmap.svg', 'w') as f:
+              f.write(svg)
+          print(f"✓ Generated {len(contributions)} days")
+          EOF
+
+          python gen.py
+
+      - name: Generate GitHub contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: sandeepyadav1478
+          outputs: |
+            github-snake.svg
+            github-snake-dark.svg?palette=github-dark
+
+      - name: Deploy outputs
+        run: |
+          mkdir -p dist
+          mv wakatime_heatmap.svg dist/
+          mv github-snake*.svg dist/ 2>/dev/null || true
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
