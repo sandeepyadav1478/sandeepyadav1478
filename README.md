@@ -63,7 +63,18 @@ Git Config   9 mins          ▒░░░░░░░░░░░░░░░░
 
 ## 🐍 WakaTime Coding Activity
 
-![Snake](https://raw.githubusercontent.com/sandeepyadav1478/sandeepyadav1478/output/github-snake-dark.svg)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/sandeepyadav1478/sandeepyadav1478/output/wakatime-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/sandeepyadav1478/sandeepyadav1478/output/wakatime-snake.svg" />
+    <img alt="WakaTime Snake eating my coding hours"
+         src="https://raw.githubusercontent.com/sandeepyadav1478/sandeepyadav1478/output/wakatime-snake-dark.svg"
+         width="100%" />
+  </picture>
+</p>
+
 
 
 ## 🐍 Watch the Snake Eat My Contributions!
