@@ -7,6 +7,7 @@
 - 📫 How to reach me - 1. [Mail](mailto:sandeepyadav1478@gmail.com)&nbsp;2. [Linkedin](https://www.linkedin.com/in/sandeepyadav1478/)
 - ⚡ Fun fact: Love learing techs & watch some scifi movies like WestWorld, The Godfather 😄 !! 
 
+
 <br>
 <p align="center">
   <a href="https://github.com/sandeepyadav1478/github-readme-stats">
@@ -35,7 +36,7 @@
  <br/>
  
  ## Wakatime ever stats
- 
+ <!--START_SECTION:waka-->
  <p align="center">
      <a href="https://github.com/sandeepyadav1478/github-readme-stats">
     <img
@@ -47,9 +48,9 @@
 sandeepyadav1478/sandeepyadav1478 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<!--END_SECTION:waka-->
 
 <br/>
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
 
 ## Recent liked commits
 <p align="center">
