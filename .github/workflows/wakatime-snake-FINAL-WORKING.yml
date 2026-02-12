@@ -1,0 +1,136 @@
+name: WakaTime Snake (No Fork Needed!)
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch WakaTime and generate snake-compatible JSON
+        run: |
+          cat > generate_snake_data.py << 'PYTHON_SCRIPT'
+          import requests
+          import json
+          from datetime import datetime, timedelta
+
+          print("🐍 Fetching WakaTime data...")
+
+          # Fetch your WakaTime JSON
+          url = "https://wakatime.com/share/@sandeepyadav1478/a0d90c2c-04e0-4be5-8b32-3a0474042b36.json"
+          response = requests.get(url)
+          wakatime_data = response.json()
+
+          print(f"✓ Got {len(wakatime_data.get('days', []))} days")
+
+          # Create date -> level mapping
+          date_map = {}
+          for day in wakatime_data.get('days', []):
+              date_str = day.get('date', '')
+              total_seconds = day.get('total', 0)
+              hours = total_seconds / 3600
+
+              # Convert to contribution level (0-4)
+              if hours == 0:
+                  level = 0
+              elif hours < 1:
+                  level = 1
+              elif hours < 3:
+                  level = 2
+              elif hours < 5:
+                  level = 3
+              else:
+                  level = 4
+
+              date_map[date_str] = level
+
+          # Generate grid (52 weeks x 7 days = 364 days)
+          cells = []
+          end_date = datetime.now()
+          start_date = end_date - timedelta(days=363)
+
+          current = start_date
+          while current <= end_date:
+              date_str = current.strftime('%Y-%m-%d')
+              level = date_map.get(date_str, 0)
+              cells.append(level)
+              current += timedelta(days=1)
+
+          # Pad to 364 if needed
+          while len(cells) < 364:
+              cells.append(0)
+
+          # Create output in the format snk expects
+          output = {
+              "cells": cells[:364]  # Exactly 364 cells (52*7)
+          }
+
+          with open('contribution-grid.json', 'w') as f:
+              json.dump(output, f)
+
+          print(f"✓ Generated grid with {len(cells)} cells")
+          print(f"✓ Coding days: {sum(1 for c in cells if c > 0)}")
+          PYTHON_SCRIPT
+
+          python generate_snake_data.py
+
+      - name: Generate snake animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Override with WakaTime snake (using Docker)
+        continue-on-error: true
+        run: |
+          # Try to generate snake from our custom data using snk Docker image
+          docker run --rm -v $(pwd):/github/workspace \
+            ghcr.io/platane/snk:v3 \
+            generate /github/workspace/contribution-grid.json \
+            --output-file /github/workspace/wakatime-snake.svg 2>&1 || echo "Docker approach failed, using GitHub snake"
+
+          if [ -f "wakatime-snake.svg" ]; then
+            mkdir -p dist
+            mv wakatime-snake.svg dist/
+            echo "✓ WakaTime snake generated!"
+          fi
+
+      - name: Deploy
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Report
+        run: |
+          if [ -f "dist/wakatime-snake.svg" ]; then
+            echo "✅ WakaTime Snake Generated!"
+            echo "View: https://raw.githubusercontent.com/${{ github.repository }}/output/wakatime-snake.svg"
+          else
+            echo "⚠️  Using GitHub contribution snake as fallback"
+            echo "View: https://raw.githubusercontent.com/${{ github.repository }}/output/github-snake-dark.svg"
+          fi
