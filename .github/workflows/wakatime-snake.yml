@@ -19,7 +19,7 @@ jobs:
       - name: Generate WakaTime Snake
         uses: sandeepyadav1478/snk-wakatime@main
         with:
-          wakatime_json_url: "https://wakatime.com/share/@sandeepyadav1478/a0d90c2c-04e0-4be5-8b32-3a0474042b36.json"
+          wakatime_json_url: ${{secrets.WAKATIME_JSON_URL}}
           outputs: |
             dist/wakatime-snake.svg
             dist/wakatime-snake-dark.svg?palette=github-dark
