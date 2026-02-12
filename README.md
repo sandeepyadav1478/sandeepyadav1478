@@ -61,6 +61,11 @@ Git Config   9 mins          ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+## 🐍 WakaTime Coding Activity
+
+![Snake](https://raw.githubusercontent.com/sandeepyadav1478/sandeepyadav1478/output/github-snake-dark.svg)
+
+
 ## 🐍 Watch the Snake Eat My Contributions!
 
 <p align="center">
