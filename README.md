@@ -5,14 +5,15 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-7%20years-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Django-monolith%20%2B%20distributed%20queues-092E20?style=flat-square&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/evals-269%20MLflow%20runs-0194E2?style=flat-square&logo=mlflow&logoColor=white">
+  <img src="https://img.shields.io/badge/agents-six--specialist%20review%20fleet-1C3C3C?style=flat-square">
 </p>
 
 <br>
 
-🔭 &nbsp;**Now** &nbsp;·&nbsp; [**touchstone**](https://github.com/sandeepyadav1478/touchstone) — an eval-improvement loop for agentic systems. Failing runs are mined back into the eval set, gates guard both directions of error, and the specimen benchmark grades final database state alone.
+🔭 &nbsp;**Now**
 
-🚀 &nbsp;**Shipped** &nbsp;·&nbsp; [**sqloutbox**](https://github.com/sandeepyadav1478/sqloutbox) on [PyPI](https://pypi.org/project/sqloutbox/), a transactional outbox for SQLite — at-least-once delivery to N remote databases, standard library only.
+- [**touchstone**](https://github.com/sandeepyadav1478/touchstone) — an eval-improvement loop for agentic systems. Failing runs are mined back into the eval set, gates guard both directions of error, and the specimen benchmark grades final database state alone.
+- **Axiom** — turns scraped financial data into a queryable company graph. Airflow DAGs ingest and enrich it, DSPy extraction builds the nodes and edges, and a validation DAG checks what lands.
 
 <br>
 
