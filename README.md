@@ -9,7 +9,7 @@
 
 <br>
 
-🎧 &nbsp;**Currently obsessed with**
+🧩 &nbsp;**Currently puzzling over**
 
 - [**Touchstone**](https://github.com/sandeepyadav1478/touchstone) — an eval-improvement loop for agentic systems. Failing runs are mined back into the eval set, gates guard both directions of error, and the specimen benchmark grades final database state alone.
 - **Axiom** — turns scraped financial data into a queryable company graph. Airflow DAGs ingest and enrich it, DSPy extraction builds the nodes and edges, and a validation DAG checks what lands.
