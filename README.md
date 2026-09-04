@@ -1,14 +1,40 @@
-## Hi there!
+## Sandeep Yadav
 
-- 👋 Its *Sandeep*. My work origin is world.
-- 👀 I’m interested in Python Project Development.
-- 🌱 I’m currently learning NLP Libraries using Python.
-- 💞️ I’m currenty collaborating on aws boto3 github page.
-- 📫 How to reach me - 1. [Mail](mailto:sandeepyadav1478@gmail.com)&nbsp;2. [Linkedin](https://www.linkedin.com/in/sandeepyadav1478/)
-- ⚡ Fun fact: Love learing techs & watch some scifi movies like WestWorld, The Godfather 😄 !! 
+**AI / Agent Engineer · Back End (Python, Django)**
 
+Agent systems shipped inside an e-commerce returns platform: a six-specialist code-review
+fleet, graph-and-vector retrieval over merchant data. Fixes merged into LangChain's agent
+framework. Seven years of production Python under both, system design across a Django
+monolith and its distributed queues, and the evals behind the model choices.
+
+- 🌐 [sandeepyadav1478.github.io](https://sandeepyadav1478.github.io)
+- 📫 [Mail](mailto:sandeepyadav1478@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/sandeepyadav1478/)
 
 <br>
+
+## Projects
+
+**[touchstone](https://github.com/sandeepyadav1478/touchstone)** — An eval-improvement loop
+for agentic systems: failing runs are mined back into the eval set. Gates guard both
+directions of error, and the specimen benchmark grades final database state alone.
+
+**[sqloutbox](https://github.com/sandeepyadav1478/sqloutbox)** · [PyPI](https://pypi.org/project/sqloutbox/)
+— A transactional outbox for SQLite: at-least-once delivery to N remote databases,
+standard library only.
+
+**[langchain-ai/deepagents](https://github.com/langchain-ai/deepagents)** — merged
+contributions to the open-source agent framework: prevents a state-merge error when
+sub-agents run in parallel ([#954](https://github.com/langchain-ai/deepagents/pull/954)),
+and warns when ripgrep is missing instead of letting the search fail quietly
+([#1337](https://github.com/langchain-ai/deepagents/pull/1337)).
+
+Two more are private for now — **Axiom**, which turns scraped financial data into a
+queryable company graph (Airflow ingest, DSPy extraction, a validation DAG), and
+**Multi-LLM**, which benchmarked five inference backends on a graded eval suite over 269
+MLflow runs and wired the winner into a PreToolUse hook.
+
+<br>
+
 <p align="center">
   <a href="https://github.com/sandeepyadav1478/github-readme-stats">
     <img
@@ -24,32 +50,11 @@
        src="https://github-readme-stats-vercel-kohl.vercel.app/api?username=sandeepyadav1478&count_private=true&show_icons=true&custom_title=Github%20Status&theme=tokyonight"/>
   </a>
  </p>
-<!--  <p align="center">
-   <a href="https://github.com/sandeepyadav1478/github-readme-stats">
-    <img
-      align="center"
-      height="145"
-       width="400"
-      src="https://github-readme-stats-vercel-kohl.vercel.app/api/pin/?username=sandeepyadav1478&repo=Transfer-files-from-google-to-terabox-cloud&theme=tokyonight"/>
-  </a>
- </p> -->
- <br/>
- 
- ## Wakatime ever stats
 
- <p align="center">
-     <a href="https://github.com/sandeepyadav1478/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats-vercel-kohl.vercel.app/api/wakatime?username=@sandeepyadav1478&theme=tokyonight&count_private=true&show_icons=true&layout=compact"/>
-  </a>
-  </p>
 <!---
 sandeepyadav1478/sandeepyadav1478 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
- 
- <!--START_SECTION:waka--><!--END_SECTION:waka-->
 
 ## 📈 Coding Activity
 
@@ -66,34 +71,27 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <br/>
-<br/>
 
-## Skills and tools
+## Stack
 
-<p align="center">
-    <img height="40" alt="django" src="https://icon-library.com/images/django-icon/django-icon-0.jpg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" alt="js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" alt="python3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" alt="git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" alt="github" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" alt="solidity" src="https://iconape.com/wp-content/png_logo_vector/solidity.png">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSC" >
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" alt="powershell" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+**LLM & agents** — LangGraph · MCP · LiteLLM · Ollama · Claude Agent SDK · Instructor ·
+Pydantic · multi-agent orchestration · tool calling · guardrails and least-privilege tool
+allowlists
 
-</p>
+**Evaluation** — MLflow · LLM output evaluation · publish-blocking quality gates ·
+degenerate-output detection · train/eval contamination detection
+
+**Retrieval** — RAG · pgvector in PostgreSQL, tuned HNSW index · Neo4j property graphs ·
+Elasticsearch · embedding pipelines
+
+**Back end** — Python · Django · Django REST Framework · Flask · REST · GraphQL ·
+PostgreSQL · Redis · event-driven distributed systems (at-least-once delivery, idempotency)
+· multi-tenant architecture · pytest
+
+**Platform** — Docker & Compose · nginx · gunicorn · supervisor · systemd · AWS SQS ·
+Terraform (GCP, AWS and Cloudflare)
+
+**Observability** — Datadog · New Relic · Sentry · fluentd · PostHog
 
 <br/>
 
@@ -101,7 +99,11 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
     <a href="https://www.linkedin.com/in/sandeepyadav1478">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/mateusaraujobarros/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://sandeepyadav1478.github.io">
+        <img src="https://img.shields.io/badge/website-1a1a1a?style=for-the-badge&logo=githubpages&logoColor=white">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://medium.com/@sandeepyadav1478">
@@ -113,20 +115,8 @@ You can click the Preview link to take a look at your changes.
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:sandeepyadav1478@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sandeepyadav1478@gmail.com">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/sandeepyadav1478">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/sandeepyadav1478">
+        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white">
     </a>
 </p>
 
-<!--
-# Blog posts
- BLOG-POST-LIST:START --><!--
-- [Get Your hands Dirty in these Before approaching Machine Learning field](https://medium.com/@spsupraj2d/get-your-hands-dirty-in-these-before-approaching-machine-learning-field-71f56c461c72?source=rss-4b5584b42d16------2)-->
-<!-- BLOG-POST-LIST:END -->
-
 <br>
-<br>
-
