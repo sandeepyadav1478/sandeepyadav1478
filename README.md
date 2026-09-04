@@ -5,6 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-7%20years-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Django-monolith%20%2B%20distributed%20queues-092E20?style=flat-square&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/evals-graded%20suites-0194E2?style=flat-square&logo=mlflow&logoColor=white">
 </p>
 
 <br>
