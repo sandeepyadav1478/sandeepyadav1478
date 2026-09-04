@@ -1,62 +1,86 @@
-## Sandeep Yadav
+<h1 align="center">Sandeep Yadav</h1>
 
-**AI / Agent Engineer · Back End (Python, Django)**
+<p align="center">
+  <b>AI / Agent Engineer</b> &nbsp;·&nbsp; Back End (Python, Django)
+</p>
 
-Agent systems shipped inside an e-commerce returns platform: a six-specialist code-review
-fleet, graph-and-vector retrieval over merchant data. Fixes merged into LangChain's agent
-framework. Seven years of production Python under both, system design across a Django
-monolith and its distributed queues, and the evals behind the model choices.
+<p align="center">
+  <i>I build agent systems, and the evals that tell you when they break.</i>
+</p>
 
-- 🌐 [sandeepyadav1478.github.io](https://sandeepyadav1478.github.io)
-- 📫 [Mail](mailto:sandeepyadav1478@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/sandeepyadav1478/)
+<p align="center">
+  <a href="https://sandeepyadav1478.github.io"><img src="https://img.shields.io/badge/website-1a1a1a?style=for-the-badge&logo=githubpages&logoColor=white"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/sandeepyadav1478"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  &nbsp;
+  <a href="https://dev.to/sandeepyadav1478"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
+  &nbsp;
+  <a href="https://medium.com/@sandeepyadav1478"><img src="https://img.shields.io/badge/medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+  &nbsp;
+  <a href="mailto:sandeepyadav1478@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 <br>
 
-## Projects
+<h3 align="center">Projects</h3>
 
-**[touchstone](https://github.com/sandeepyadav1478/touchstone)** — An eval-improvement loop
-for agentic systems: failing runs are mined back into the eval set. Gates guard both
-directions of error, and the specimen benchmark grades final database state alone.
+<table align="center">
+<tr>
+  <td><b><a href="https://github.com/sandeepyadav1478/touchstone">touchstone</a></b></td>
+  <td>An eval-improvement loop for agentic systems: failing runs are mined back into the eval set.</td>
+</tr>
+<tr>
+  <td><b><a href="https://github.com/sandeepyadav1478/sqloutbox">sqloutbox</a></b><br><sub><a href="https://pypi.org/project/sqloutbox/">on PyPI</a></sub></td>
+  <td>A transactional outbox for SQLite: at-least-once delivery to N remote databases, standard library only.</td>
+</tr>
+<tr>
+  <td><b><a href="https://github.com/langchain-ai/deepagents">deepagents</a></b><br><sub>merged upstream</sub></td>
+  <td>A state-merge fix for parallel sub-agents (<a href="https://github.com/langchain-ai/deepagents/pull/954">#954</a>), and a warning when ripgrep is missing instead of a silent search failure (<a href="https://github.com/langchain-ai/deepagents/pull/1337">#1337</a>).</td>
+</tr>
+</table>
 
-**[sqloutbox](https://github.com/sandeepyadav1478/sqloutbox)** · [PyPI](https://pypi.org/project/sqloutbox/)
-— A transactional outbox for SQLite: at-least-once delivery to N remote databases,
-standard library only.
+<br>
 
-**[langchain-ai/deepagents](https://github.com/langchain-ai/deepagents)** — merged
-contributions to the open-source agent framework: prevents a state-merge error when
-sub-agents run in parallel ([#954](https://github.com/langchain-ai/deepagents/pull/954)),
-and warns when ripgrep is missing instead of letting the search fail quietly
-([#1337](https://github.com/langchain-ai/deepagents/pull/1337)).
+<h3 align="center">Stack</h3>
 
-Two more are private for now — **Axiom**, which turns scraped financial data into a
-queryable company graph (Airflow ingest, DSPy extraction, a validation DAG), and
-**Multi-LLM**, which benchmarked five inference backends on a graded eval suite over 269
-MLflow runs and wired the winner into a PreToolUse hook.
+<p align="center">
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white">
+  <img src="https://img.shields.io/badge/MCP-D97757?style=flat-square&logo=anthropic&logoColor=white">
+  <img src="https://img.shields.io/badge/LiteLLM-4B32C3?style=flat-square">
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white">
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white">
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white">
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL%20%2B%20pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white">
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white">
+  <img src="https://img.shields.io/badge/Terraform%20(GCP%20%C2%B7%20AWS%20%C2%B7%20Cloudflare)-7B42BC?style=flat-square&logo=terraform&logoColor=white">
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white">
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white">
+</p>
 
 <br>
 
 <p align="center">
-  <a href="https://github.com/sandeepyadav1478/github-readme-stats">
-    <img
-      align="center"
-       height="145"
-      src="https://github-readme-stats-vercel-kohl.vercel.app/api/top-langs/?username=sandeepyadav1478&layout=compact&count_private=true&theme=tokyonight"
-    />
-  </a>
-  <a href="https://github.com/sandeepyadav1478/github-readme-stats">
-    <img
-      align="center"
-       height="145"
-       src="https://github-readme-stats-vercel-kohl.vercel.app/api?username=sandeepyadav1478&count_private=true&show_icons=true&custom_title=Github%20Status&theme=tokyonight"/>
-  </a>
- </p>
-
-<!---
-sandeepyadav1478/sandeepyadav1478 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-## 📈 Coding Activity
+  <img height="150" src="https://github-readme-stats-vercel-kohl.vercel.app/api/top-langs/?username=sandeepyadav1478&layout=compact&count_private=true&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-stats-vercel-kohl.vercel.app/api?username=sandeepyadav1478&count_private=true&show_icons=true&custom_title=GitHub&theme=tokyonight&hide_border=true" />
+</p>
 
 <p align="center">
   <picture>
@@ -64,59 +88,8 @@ You can click the Preview link to take a look at your changes.
             srcset="https://raw.githubusercontent.com/sandeepyadav1478/sandeepyadav1478/output/wakatime-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)"
             srcset="https://raw.githubusercontent.com/sandeepyadav1478/sandeepyadav1478/output/wakatime-snake.svg" />
-    <img alt="WakaTime Snake eating my coding hours"
+    <img alt="contribution snake"
          src="https://raw.githubusercontent.com/sandeepyadav1478/sandeepyadav1478/output/wakatime-snake-dark.svg"
          width="100%" />
   </picture>
 </p>
-
-<br/>
-
-## Stack
-
-**LLM & agents** — LangGraph · MCP · LiteLLM · Ollama · Claude Agent SDK · Instructor ·
-Pydantic · multi-agent orchestration · tool calling · guardrails and least-privilege tool
-allowlists
-
-**Evaluation** — MLflow · LLM output evaluation · publish-blocking quality gates ·
-degenerate-output detection · train/eval contamination detection
-
-**Retrieval** — RAG · pgvector in PostgreSQL, tuned HNSW index · Neo4j property graphs ·
-Elasticsearch · embedding pipelines
-
-**Back end** — Python · Django · Django REST Framework · Flask · REST · GraphQL ·
-PostgreSQL · Redis · event-driven distributed systems (at-least-once delivery, idempotency)
-· multi-tenant architecture · pytest
-
-**Platform** — Docker & Compose · nginx · gunicorn · supervisor · systemd · AWS SQS ·
-Terraform (GCP, AWS and Cloudflare)
-
-**Observability** — Datadog · New Relic · Sentry · fluentd · PostHog
-
-<br/>
-
-## Connect
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/sandeepyadav1478">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://sandeepyadav1478.github.io">
-        <img src="https://img.shields.io/badge/website-1a1a1a?style=for-the-badge&logo=githubpages&logoColor=white">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://medium.com/@sandeepyadav1478">
-        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://dev.to/sandeepyadav1478">
-        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:sandeepyadav1478@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-</p>
-
-<br>
